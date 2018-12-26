@@ -1,6 +1,5 @@
 <template>
-  <section class="section is-medium">
-    <div class="container has-text-centered">
+    <div class="container text-center">
       <h1 class="title">My Projects</h1>
       <p>
         Some of my projects can be found on my <a href="https://github.com/bagusbimo/" target="_blank">GitHub</a>.
@@ -16,5 +15,4 @@
         <a href="https://pcpartpicker.com/list/M9HLnH" target="_blank">My 2nd Personal Computer Build - specs list</a>
       </p>
     </div>
-  </section>
 </template>

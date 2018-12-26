@@ -16,7 +16,15 @@
 </script>
 
 <style>
-  html {
-    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  html, body {
+    font-family: 'Lato', sans-serif;
+    height:100%;
+  }
+  
+  body {
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  text-align:center;
   }
 </style>

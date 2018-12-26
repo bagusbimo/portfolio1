@@ -10,8 +10,8 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'coba portfolio pake nuxt' }
     ],
     link: [
-      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700' },
+      { rel: 'stylesheet', href: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Lato' },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
